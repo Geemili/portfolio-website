@@ -45,7 +45,7 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
   things you find.  Share this information in your standup meeting with your
   group
 - [ ] Customize the template to you 
-	- [ ] Update the title tag match your name
+	- [x] Update the title tag match your name
 	- [ ] Update the place holder content throughout the template to your
 	  information
 		* Some templates are much larger than others, you don't need to fill in every
